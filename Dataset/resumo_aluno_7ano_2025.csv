@@ -1,0 +1,79 @@
+﻿Matrícula,Nome do Aluno,Turma,Média Geral,Aulas Previstas,Presenças,Faltas,% Frequência,Disciplinas Abaixo da Média,Situação Final,Classificação de Risco
+20250119,Ana Luíza Gomes Ramos,701,8.6,760,733,27,0.9645,0,Aprovado,Regular
+20250105,Arthur Azevedo Ferreira,701,6.3,760,691,69,0.9092,1,Reprovado por Nota,Reprovado
+20250104,Bruna Monteiro Freitas,701,8.2,760,722,38,0.95,0,Aprovado,Regular
+20250121,Clara Ramos Araújo,701,8.0,760,706,54,0.9289,0,Aprovado,Regular
+20250117,Eduardo Almeida Lima,701,8.0,760,756,4,0.9947,0,Aprovado,Regular
+20250114,Elisa Pereira Mendes,701,7.2,760,687,73,0.9039,0,Aprovado,Atenção
+20250116,Emanuelly Ramos Santana,701,9.2,760,714,46,0.9395,0,Aprovado,Regular
+20250108,Felipe Soares Nascimento,701,8.8,760,757,3,0.9961,0,Aprovado,Regular
+20250125,Gabriel Bezerra Pinto,701,6.8,760,527,233,0.6934,1,Reprovado por Nota e Frequência,Reprovado
+20250112,Helena Moreira Moreira,701,7.8,760,689,71,0.9066,0,Aprovado,Atenção
+20250110,Henrique Dias Ferreira,701,9.5,760,746,14,0.9816,0,Aprovado,Regular
+20250102,Ian Almeida Pinto,701,8.2,760,697,63,0.9171,0,Aprovado,Regular
+20250113,Lorena Ferreira Marques,701,7.8,760,642,118,0.8447,0,Aprovado,Alto Risco
+20250115,Maria Clara Teixeira Soares,701,9.4,760,702,58,0.9237,0,Aprovado,Regular
+20250127,Milena Martins Soares,701,9.5,760,711,49,0.9355,0,Aprovado,Regular
+20250101,Nicolas Santana Santana,701,8.0,760,749,11,0.9855,0,Aprovado,Regular
+20250103,Nicole Cavalcanti Correia,701,7.6,760,751,9,0.9882,0,Aprovado,Atenção
+20250123,Nicole Marques Mendes,701,7.0,760,558,202,0.7342,1,Reprovado por Nota e Frequência,Reprovado
+20250109,Nicole Nunes Santana,701,8.4,760,756,4,0.9947,0,Aprovado,Regular
+20250126,Nicole Teixeira Gonçalves,701,7.8,760,757,3,0.9961,0,Aprovado,Atenção
+20250118,Otávio Teixeira Alves,701,7.6,760,735,25,0.9671,0,Aprovado,Atenção
+20250106,Rafael Alves Freitas,701,8.0,760,708,52,0.9316,0,Aprovado,Regular
+20250124,Rafael Fernandes Silva,701,8.1,760,718,42,0.9447,0,Aprovado,Regular
+20250122,Rebeca Marques Barbosa,701,7.2,760,696,64,0.9158,0,Aprovado,Atenção
+20250111,Valentina Cardoso Gomes,701,7.7,760,711,49,0.9355,0,Aprovado,Atenção
+20250120,Vinícius Pereira Duarte,701,8.8,760,737,23,0.9697,0,Aprovado,Regular
+20250107,Yuri Gonçalves Rocha,701,9.5,760,745,15,0.9803,0,Aprovado,Regular
+20250146,Agatha Rodrigues Souza,702,7.5,760,730,30,0.9605,0,Aprovado,Atenção
+20250140,Antonella Lima Araújo,702,8.2,760,715,45,0.9408,0,Aprovado,Regular
+20250135,Arthur Freitas Monteiro,702,9.6,760,740,20,0.9737,0,Aprovado,Regular
+20250139,Arthur Rocha Monteiro,702,8.4,760,704,56,0.9263,0,Aprovado,Regular
+20250133,Beatriz Alves Martins,702,7.9,760,755,5,0.9934,0,Aprovado,Atenção
+20250141,Caio Monteiro Lima,702,8.1,760,721,39,0.9487,0,Aprovado,Regular
+20250138,Clara Duarte Nascimento,702,7.7,760,706,54,0.9289,0,Aprovado,Atenção
+20250145,Felipe Silva Alves,702,7.3,760,534,226,0.7026,0,Reprovado por Frequência,Reprovado
+20250151,Gabriel Monteiro Teixeira,702,8.5,760,682,78,0.8974,0,Aprovado,Atenção
+20250153,Larissa Almeida Rodrigues,702,6.9,760,724,36,0.9526,0,Aprovado,Alto Risco
+20250132,Laura Bezerra Fernandes,702,8.0,760,738,22,0.9711,0,Aprovado,Regular
+20250142,Laura Machado Costa,702,7.0,760,557,203,0.7329,1,Reprovado por Nota e Frequência,Reprovado
+20250136,Leonardo Martins Lopes,702,7.2,760,695,65,0.9145,0,Aprovado,Atenção
+20250137,Leonardo Oliveira Araújo,702,6.8,760,731,29,0.9618,0,Aprovado,Alto Risco
+20250130,Lívia Alves Freitas,702,8.0,760,720,40,0.9474,0,Aprovado,Regular
+20250150,Lívia Cavalcanti Azevedo,702,7.1,760,696,64,0.9158,1,Reprovado por Nota,Reprovado
+20250131,Lívia Ribeiro Mendes,702,9.1,760,696,64,0.9158,0,Aprovado,Regular
+20250149,Lívia Rocha Pereira,702,7.7,760,727,33,0.9566,0,Aprovado,Atenção
+20250128,Lívia Santana Gonçalves,702,9.1,760,721,39,0.9487,0,Aprovado,Regular
+20250144,Maria Clara Gomes Teixeira,702,9.1,760,720,40,0.9474,0,Aprovado,Regular
+20250143,Murilo Monteiro Barbosa,702,6.4,760,669,91,0.8803,2,Reprovado por Nota,Reprovado
+20250129,Rebeca Oliveira Vieira,702,6.9,760,669,91,0.8803,1,Reprovado por Nota,Reprovado
+20250134,Sophia Freitas Silva,702,7.7,760,702,58,0.9237,0,Aprovado,Atenção
+20250148,Thiago Ramos Rocha,702,7.9,760,734,26,0.9658,0,Aprovado,Atenção
+20250152,Vitor Azevedo Dias,702,7.6,760,757,3,0.9961,0,Aprovado,Atenção
+20250147,Vitória Nascimento Santos,702,8.8,760,721,39,0.9487,0,Aprovado,Regular
+20250154,Alice Martins Bezerra,703,7.2,760,694,66,0.9132,0,Aprovado,Atenção
+20250157,Antonella Santos Lima,703,9.1,760,718,42,0.9447,0,Aprovado,Regular
+20250167,Arthur Ferreira Cardoso,703,6.8,760,757,3,0.9961,1,Reprovado por Nota,Reprovado
+20250170,Bernardo Azevedo Fernandes,703,8.8,760,709,51,0.9329,0,Aprovado,Regular
+20250163,Bruna Machado Vieira,703,8.3,760,717,43,0.9434,0,Aprovado,Regular
+20250172,Clara Correia Lima,703,6.9,760,703,57,0.925,0,Aprovado,Alto Risco
+20250171,Eduardo Vieira Cavalcanti,703,7.9,760,701,59,0.9224,0,Aprovado,Atenção
+20250161,Felipe Barbosa Ribeiro,703,9.1,760,691,69,0.9092,0,Aprovado,Regular
+20250169,Gustavo Costa Nascimento,703,7.1,760,654,106,0.8605,0,Aprovado,Atenção
+20250174,Isabella Alves Souza,703,7.7,760,609,151,0.8013,0,Aprovado,Alto Risco
+20250164,Isabella Rocha Teixeira,703,5.9,760,710,50,0.9342,3,Reprovado por Nota,Reprovado
+20250162,Isabella Soares Cardoso,703,6.4,760,693,67,0.9118,1,Reprovado por Nota,Reprovado
+20250160,Lorena Araújo Machado,703,9.1,760,707,53,0.9303,0,Aprovado,Regular
+20250168,Lorena Araújo Ribeiro,703,8.6,760,712,48,0.9368,0,Aprovado,Regular
+20250178,Luiza Rodrigues Silva,703,8.0,760,723,37,0.9513,0,Aprovado,Regular
+20250165,Lívia Pereira Teixeira,703,6.5,760,525,235,0.6908,1,Reprovado por Nota e Frequência,Reprovado
+20250175,Melissa Ribeiro Bezerra,703,8.7,760,708,52,0.9316,0,Aprovado,Regular
+20250155,Miguel Bezerra Araújo,703,6.4,760,702,58,0.9237,1,Reprovado por Nota,Reprovado
+20250173,Murilo Soares Alves,703,8.6,760,733,27,0.9645,0,Aprovado,Regular
+20250158,Murilo Teixeira Lima,703,9.5,760,748,12,0.9842,0,Aprovado,Regular
+20250177,Rafael Rocha Costa,703,4.9,760,506,254,0.6658,5,Reprovado por Nota e Frequência,Reprovado
+20250159,Ryan Ribeiro Nunes,703,9.7,760,755,5,0.9934,0,Aprovado,Regular
+20250156,Samuel Bezerra Martins,703,6.4,760,678,82,0.8921,1,Reprovado por Nota,Reprovado
+20250166,Sarah Alves Carvalho,703,7.4,760,712,48,0.9368,0,Aprovado,Atenção
+20250176,Thiago Rocha Fernandes,703,8.1,760,697,63,0.9171,0,Aprovado,Regular
